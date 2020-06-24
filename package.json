@@ -26,6 +26,6 @@
     "electron": "^9.0.5"
   },
   "dependencies": {
-    "ac-connector": "latest"
+    "ac-connector": "^0.2.8"
   }
 }
