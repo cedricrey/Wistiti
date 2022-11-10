@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/cedricrey/wistiti#readme",
   "devDependencies": {
-    "electron": "^11.5.0"
+    "electron": "^18.3.7"
   },
   "dependencies": {
     "ac-connector": "^0.2.8"
